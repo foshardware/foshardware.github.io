@@ -1,0 +1,3 @@
+[submodule "lsc"]
+	path = lsc
+	url = https://github.com/foshardware/lsc.git
